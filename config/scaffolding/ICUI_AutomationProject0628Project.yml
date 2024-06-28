@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ICUI_AutomationProject0628Project
+  gitServerName: ICAccount0628
+  gitUrl: https://github.com/amlanbhowmick85/ICUI_AutomationProject0628Project
+  gitUsername: amlanbhowmick85
+  gitBranch: main
